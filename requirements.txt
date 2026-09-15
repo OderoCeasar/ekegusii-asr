@@ -1,0 +1,33 @@
+# Core
+torch
+torchaudio
+transformers>=4.40
+datasets
+accelerate
+
+# Audio
+soundfile
+librosa
+silero-vad
+
+# Alignment
+ctc-segmentation
+
+# Metrics
+jiwer
+evaluate
+
+# LM decoding
+pyctcdecode
+kenlm
+
+# Ingest
+yt-dlp
+
+# Demo
+gradio
+
+# Utils
+pyyaml
+pandas
+tqdm
